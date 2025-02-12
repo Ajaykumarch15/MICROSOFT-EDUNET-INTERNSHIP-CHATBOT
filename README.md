@@ -67,5 +67,5 @@ Feel free to fork this project and submit pull requests. If you have suggestions
 This project is licensed under the **MIT License**.
 
 ## 📧 Contact
-For any queries, contact **your.email@example.com**.
+For any queries, contact **ajaykumarchodipilli15@gmail.com**.
 
